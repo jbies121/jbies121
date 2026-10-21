@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jbies121
 - 👀 I’m interested in Security and Automation
-- 🌱 I’m currently learning Discord.Net & Google Calendar API
+- 🌱 I’m currently learning Unity
 <!--- - 💞️ I’m looking to collaborate on --->
 - 📫 Twitter - @rac3_c0ndition
 
